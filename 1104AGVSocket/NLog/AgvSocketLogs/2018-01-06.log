@@ -1,0 +1,183 @@
+2018-01-06 12:22:56.4404 ERROR  Session [SessionKey[d4c56074-15b0-45bd-aef7-e2361499c66c], RemoteEndPoint[192.168.1.4:44350], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 12:22:56.8204 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 12:22:56.9404 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 12:23:21.1710 ERROR  Session [SessionKey[1e591396-3d5a-433b-b027-e76b79668d69], RemoteEndPoint[192.168.1.4:44368], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 12:23:21.2910 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 12:23:21.4810 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 13:13:32.8368 ERROR  Session [SessionKey[bb37b39d-88aa-4c41-8bc1-dbcb14e965dd], RemoteEndPoint[192.168.1.4:47380], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 13:13:32.9768 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 13:13:33.1768 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 13:14:05.2509 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:05.4409 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:05.6009 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:05.7309 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:05.8409 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:05.9709 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:06.1109 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:06.2409 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:06.3810 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:06.5109 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:06.6609 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:06.8510 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:07.0110 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:07.1510 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:07.2810 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:07.3910 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:07.5110 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:07.6210 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:07.7483 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:07.8583 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:07.9783 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:08.0883 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:08.2083 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:08.3383 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:08.4883 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:08.6283 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:08.7783 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:08.9083 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:09.0484 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:09.1884 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:09.3284 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:09.4584 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:09.6084 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:09.7784 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:10.0184 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:10.1584 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:10.3084 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:10.4384 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:10.5885 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:10.7329 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:10.8629 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:11.0029 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:11.2329 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:11.3630 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:11.4730 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:11.6230 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:11.7530 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:11.8830 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:12.0130 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:12.1530 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:12.2830 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:12.4230 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:12.5530 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:12.6830 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:12.8230 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:12.9531 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:13.0831 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:13.2131 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:13.3431 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:13.4731 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:13.6131 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:13.7438 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:13.8838 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:14.0238 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:14.1538 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:14.2838 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:14.4138 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:14.5438 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:14.6939 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:14.8239 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:14.9539 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:15.1039 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:15.2439 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:15.3839 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:15.5139 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:15.6439 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:15.7839 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:15.9139 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:16.0440 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:16.1740 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:16.3140 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:16.4640 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:16.6240 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:16.7640 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:16.9040 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:17.0340 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:17.1640 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:17.2940 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:17.4240 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:17.5540 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:17.6844 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:17.8344 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:17.9844 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:18.1144 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:18.2444 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:18.3744 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:18.5045 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:18.6644 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:18.7944 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:18.9345 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:19.1145 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:19.2645 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:19.3745 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:19.4845 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:19.6145 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:19.7545 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:19.9145 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:20.0645 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:20.2295 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:20.3795 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:20.5895 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:20.7095 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:20.8195 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:20.9295 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:21.0395 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:21.1595 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:14:21.2795 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:列名 'InitNoBag' 无效。 
+2018-01-06 13:15:08.2367 ERROR  Session [SessionKey[6ced1424-0083-403c-9704-5e4474dcb080], RemoteEndPoint[192.168.1.4:47444], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 13:15:08.3868 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 13:15:08.6168 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 13:39:12.6978 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:Timeout 时间已到。在操作完成之前超时时间已过或服务器未响应。 
+2018-01-06 13:42:35.7952 ERROR  Session [SessionKey[dc75e7d2-a633-429a-939a-152d5f5bd03a], RemoteEndPoint[192.168.1.4:48178], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 13:42:35.8653 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 13:42:36.0853 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 13:44:01.5318 ERROR  Session [SessionKey[7654087d-20e0-4f5c-8de3-9ec68878c4a2], RemoteEndPoint[192.168.1.4:48284], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 13:44:01.5918 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 13:44:01.7918 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 13:44:36.0296 ERROR  Session [SessionKey[3105732a-aeef-4928-afda-3e65ee415fd3], RemoteEndPoint[192.168.1.4:48300], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 13:44:36.1296 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 13:44:36.3396 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 13:45:18.2053 ERROR  Session [SessionKey[f2e613bc-b2ea-45fe-ac5d-0e625eb9196e], RemoteEndPoint[192.168.1.4:48316], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 13:45:18.2653 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 13:45:18.4753 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 14:00:21.4096 ERROR  Session [SessionKey[9b592a7c-4462-4461-9ff3-a8c7036bfae2], RemoteEndPoint[192.168.1.4:49374], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 14:00:21.5296 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 14:00:21.7496 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 14:01:51.0033 ERROR  Session [SessionKey[0f1dd853-7870-43ba-be7c-4dcaa9d4f571], RemoteEndPoint[192.168.1.4:49476], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 14:01:51.1533 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 14:01:51.3433 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-06 17:42:09.8564 ERROR  Session [SessionKey[3d6ea8a0-4e5c-40d6-afea-c2e5a68f890f], RemoteEndPoint[192.168.1.4:44614], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 17:42:10.0164 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 20:14:12.4121 ERROR  Session [SessionKey[cc5ab715-c3ff-418c-a55c-28dc6113d334], RemoteEndPoint[192.168.1.4:39322], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 20:14:12.4932 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 20:14:29.1802 ERROR  Session [SessionKey[5d4e8a2a-2cd8-491c-aa65-b4fbc5f45588], RemoteEndPoint[192.168.1.4:39336], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 20:14:29.3427 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 20:14:47.7658 ERROR  Session [SessionKey[6addd1fd-f8bf-4493-a44b-8d1112d1a4d9], RemoteEndPoint[192.168.1.4:39354], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 20:14:47.9358 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 20:19:44.8367 ERROR  Session [SessionKey[b6abf6de-e4f4-43cd-b0f9-6303268cb087], RemoteEndPoint[192.168.1.4:39736], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 20:19:44.9415 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 20:20:13.7999 ERROR  Session [SessionKey[898675cf-7214-498d-9196-166130a0de62], RemoteEndPoint[192.168.1.4:39762], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 20:20:22.7840 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 21:46:00.4233 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 22:05:01.5450 ERROR  Session [SessionKey[3e12f6f9-c6a4-4990-882b-917a33658e6f], RemoteEndPoint[192.168.1.4:39510], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 22:05:01.7027 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 22:08:48.1365 ERROR  Session [SessionKey[1d020f19-e44b-477c-97b0-54696c3a1681], RemoteEndPoint[192.168.1.4:39548], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 22:08:48.2490 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 23:20:18.9177 ERROR  Session [SessionKey[90300de2-1422-4ae1-a61b-abac9c128538], RemoteEndPoint[192.168.1.4:42884], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 23:20:19.4266 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 23:31:17.4656 ERROR  Session [SessionKey[a9d71928-5ec4-4f1a-b97a-44b83ff5a3ea], RemoteEndPoint[192.168.1.4:43318], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 23:31:17.5953 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 23:42:52.9365 ERROR  Session [SessionKey[bb41d8fd-dde1-468c-9ab4-80bf6319ee8f], RemoteEndPoint[192.168.1.4:43482], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 23:42:53.0826 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 23:43:23.3019 ERROR  Session [SessionKey[a4367691-8a1f-44d2-b476-ffff64ca11cc], RemoteEndPoint[192.168.1.4:43496], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 23:43:23.5901 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 23:43:36.7466 ERROR  Session [SessionKey[7bb67c1c-7194-49ea-8c44-bc3e981e0799], RemoteEndPoint[192.168.1.4:43506], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 23:43:37.1704 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 23:52:43.9530 ERROR  Session [SessionKey[cd9b819b-7f71-4918-9b47-48134475d8ee], RemoteEndPoint[192.168.1.4:43722], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 23:52:44.0515 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 23:52:56.2715 ERROR  Session [SessionKey[1c33c35c-d05b-4630-8a38-7ecf2b36f73e], RemoteEndPoint[192.168.1.4:43732], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 23:52:56.6042 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 23:53:30.3425 ERROR  Session [SessionKey[ec2967b5-546c-43de-b846-0788dee0f4e2], RemoteEndPoint[192.168.1.4:43756], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 23:53:30.5402 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-06 23:53:43.5752 ERROR  Session [SessionKey[1a094096-fa99-4b95-94e5-17995235381a], RemoteEndPoint[192.168.1.4:43766], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-06 23:53:43.7046 ERROR  远程主机强迫关闭了一个现有的连接。 

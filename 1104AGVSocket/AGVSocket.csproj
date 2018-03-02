@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{62DEFFEB-20B2-4DAC-A42A-F9892D71B45C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AGV_V1._0</RootNamespace>
+    <AssemblyName>1104AGVSocket</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="client20710711, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Dll\client20710711.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\NLog.4.4.12\lib\net45\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Agv\Vehicle.cs" />
+    <Compile Include="Agv\VehicleManager.cs" />
+    <Compile Include="DataBase\SqlHelper.cs" />
+    <Compile Include="Map\ElecMap.cs" />
+    <Compile Include="Map\MapNode.cs" />
+    <Compile Include="Map\MapNodeType.cs" />
+    <Compile Include="Map\MyLocation.cs" />
+    <Compile Include="Queue\ReSendPacketQueue.cs" />
+    <Compile Include="Queue\SendPacketQueue.cs" />
+    <Compile Include="Remoting\RouteRemoteObject.cs" />
+    <Compile Include="ThreadCode\ReSendPacketThread.cs" />
+    <Compile Include="ThreadCode\SendPacketThread.cs" />
+    <Compile Include="ThreadCode\UpdataSqlThread.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgvNetwork\AgvInfo.cs" />
+    <Compile Include="AgvNetwork\AgvServerManager.cs" />
+    <Compile Include="AgvNetwork\CurrentLocation.cs" />
+    <Compile Include="AgvNetwork\DriftAngle.cs" />
+    <Compile Include="AgvNetwork\EnumType\OrderExec.cs" />
+    <Compile Include="AgvNetwork\EnumType\ObstacleAvoidSwitch.cs" />
+    <Compile Include="AgvNetwork\EnumType\AlarmState.cs" />
+    <Compile Include="AgvNetwork\EnumType\TrayState.cs" />
+    <Compile Include="AgvNetwork\EnumType\AgvMotionState.cs" />
+    <Compile Include="AgvNetwork\EnumType\OprationState.cs" />
+    <Compile Include="AgvNetwork\EnumType\ResponseState.cs" />
+    <Compile Include="AgvNetwork\EnumType\AgvDirection.cs" />
+    <Compile Include="AgvNetwork\EnumType\TrayMotion.cs" />
+    <Compile Include="AgvNetwork\Event\PackMessageEventArgs.cs" />
+    <Compile Include="AgvNetwork\Event\MyErrorEventArgs.cs" />
+    <Compile Include="AgvNetwork\EnumType\ExceptionCode.cs" />
+    <Compile Include="AgvNetwork\MyBitConverter.cs" />
+    <Compile Include="AgvNetwork\MyException\PacketException.cs" />
+    <Compile Include="AgvNetwork\Destination.cs" />
+    <Compile Include="AgvNetwork\EnumType\PacketType.cs" />
+    <Compile Include="AgvNetwork\MyPoint.cs" />
+    <Compile Include="AgvNetwork\Packet\AgvInfoPacket.cs" />
+    <Compile Include="AgvNetwork\Packet\AgvResponsePacket.cs" />
+    <Compile Include="AgvNetwork\Packet\BasePacket.cs" />
+    <Compile Include="AgvNetwork\Packet\DoneReplyPacket.cs" />
+    <Compile Include="AgvNetwork\Packet\ErrorPacket.cs" />
+    <Compile Include="AgvNetwork\Packet\ReceiveBasePacket.cs" />
+    <Compile Include="AgvNetwork\Packet\RunPacket.cs" />
+    <Compile Include="AgvNetwork\Packet\SendBasePacket.cs" />
+    <Compile Include="AgvNetwork\Packet\SwervePacket.cs" />
+    <Compile Include="AgvNetwork\Packet\SysResponsePacket.cs" />
+    <Compile Include="AgvNetwork\Packet\TrayPacket.cs" />
+    <Compile Include="AgvNetwork\ServerManager.cs" />
+    <Compile Include="AgvNetwork\Server\APM\TcpSocketServer.cs" />
+    <Compile Include="AgvNetwork\Server\APM\TcpSocketServerConfiguration.cs" />
+    <Compile Include="AgvNetwork\Server\APM\TcpSocketSession.cs" />
+    <Compile Include="AgvNetwork\Server\Buffer\BufferValidator.cs" />
+    <Compile Include="AgvNetwork\Server\Buffer\ISegmentBufferManager.cs" />
+    <Compile Include="AgvNetwork\Server\Buffer\SegmentBufferDeflector.cs" />
+    <Compile Include="AgvNetwork\Server\Buffer\SegmentBufferManager.cs" />
+    <Compile Include="AgvNetwork\Server\Buffer\UnableToAllocateBufferException.cs" />
+    <Compile Include="AgvNetwork\Server\Buffer\UnableToCreateMemoryException .cs" />
+    <Compile Include="AgvNetwork\Server\EventArgs\TcpClientConnectedEventArgs.cs" />
+    <Compile Include="AgvNetwork\Server\EventArgs\TcpClientDataReceivedEventArgs.cs" />
+    <Compile Include="AgvNetwork\Server\EventArgs\TcpClientDisconnectedEventArgs.cs" />
+    <Compile Include="AgvNetwork\Server\Framing\Base\FrameBuilder.cs" />
+    <Compile Include="AgvNetwork\Server\Framing\Base\IFrameBuilder.cs" />
+    <Compile Include="AgvNetwork\Server\Framing\Base\IFrameDecoder.cs" />
+    <Compile Include="AgvNetwork\Server\Framing\Base\IFrameEncoder.cs" />
+    <Compile Include="AgvNetwork\Server\Framing\FixedLengthFrameBuilder.cs" />
+    <Compile Include="AgvNetwork\Server\Framing\LengthFieldBasedFrameBuilder.cs" />
+    <Compile Include="AgvNetwork\Server\Framing\LengthPrefixedFrameBuilder.cs" />
+    <Compile Include="AgvNetwork\Server\Framing\LineBasedFrameBuilder.cs" />
+    <Compile Include="AgvNetwork\Server\Framing\RawBufferFrameBuilder.cs" />
+    <Compile Include="AgvNetwork\Server\TcpSocketConnectionState.cs" />
+    <Compile Include="AgvNetwork\Server\TcpSocketException.cs" />
+    <Compile Include="NLog\NLog.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Queue\BaseQueue.cs" />
+    <Compile Include="Queue\CmdTxtQueue.cs" />
+    <Compile Include="ThreadCode\BaseThread.cs" />
+    <Compile Include="Util\ConstDefine.cs" />
+    <Compile Include="Util\FileUtil.cs" />
+    <Compile Include="Util\MapFileUtil.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="NLog\NLog.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Dll\client20710711.dll" />
+    <Content Include="Dll\Newtonsoft.Json.dll" />
+    <Content Include="Dll\NLog.dll" />
+    <Content Include="Map\ElcMap.xml" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

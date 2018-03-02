@@ -1,0 +1,2 @@
+2018-01-11 12:14:41.3248 ERROR  Session [SessionKey[35de1528-8c23-4189-811b-54f13f2c7d49], RemoteEndPoint[192.168.1.4:41388], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-11 12:14:41.4648 ERROR  远程主机强迫关闭了一个现有的连接。 

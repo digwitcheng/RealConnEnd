@@ -1,0 +1,39 @@
+2018-01-10 22:19:19.7402 ERROR  Session [SessionKey[ed312304-9017-491c-9a27-27307628c233], RemoteEndPoint[192.168.1.4:39638], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:19:19.8358 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-10 22:19:42.6707 ERROR  Session [SessionKey[97a468e2-1fed-49aa-ac85-8842793a26e4], RemoteEndPoint[192.168.1.4:39652], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:19:42.8223 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-10 22:25:08.1727 ERROR  Session [SessionKey[70081f14-8794-4634-b7f0-ba01ffdc4868], RemoteEndPoint[192.168.1.4:40070], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:25:08.6522 ERROR  Session [SessionKey[47d09d18-657c-4b3b-8825-cd9fbb230a42], RemoteEndPoint[192.168.1.4:40072], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:28:55.8599 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-10 22:28:55.8855 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-10 22:35:36.6202 ERROR  Session [SessionKey[4dfd3f41-bca3-4530-838b-ce84ffeb2970], RemoteEndPoint[192.168.1.4:40564], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:35:36.9044 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-10 22:37:29.2781 ERROR  Session [SessionKey[946e8321-5924-49bd-a8ae-76c7ff82e87b], RemoteEndPoint[192.168.1.4:40600], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:38:02.1176 ERROR  Session [SessionKey[cc87e87e-ef6c-4dd8-a2e5-9b10a800e729], RemoteEndPoint[192.168.1.4:40630], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:39:02.0550 ERROR  Session [SessionKey[05f95590-5ce7-4f4f-83d1-d01c858d66d4], RemoteEndPoint[192.168.1.4:40678], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:39:02.2256 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-10 22:39:29.1647 ERROR  Session [SessionKey[834f502a-0652-4ab3-9a35-acdddb1bd6dc], RemoteEndPoint[192.168.1.4:40696], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:39:52.4383 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-10 22:45:43.1942 ERROR  Session [SessionKey[67c7f19c-1eb9-4be8-b18c-412e4524a2da], RemoteEndPoint[192.168.1.4:41106], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:47:37.3812 ERROR  Session [SessionKey[10fb1d17-226f-41b5-b64f-b415cebf0b2a], RemoteEndPoint[192.168.1.4:41158], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:48:04.2864 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-10 22:48:21.4211 ERROR  Session [SessionKey[19d1e4ab-3144-466c-9709-6460fb6a084c], RemoteEndPoint[192.168.1.4:41172], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:48:53.4764 ERROR  Session [SessionKey[2c74e2ec-6999-4b33-8a92-eede0a362b6e], RemoteEndPoint[192.168.1.4:41186], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:49:31.0264 ERROR  Session [SessionKey[8424405b-ee0c-47b7-8827-28dc32dddf94], RemoteEndPoint[192.168.1.4:41200], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:49:36.8201 ERROR  Session [SessionKey[8c3d9b7f-9c6d-4565-ab4c-2179dcb0b02e], RemoteEndPoint[192.168.1.4:41202], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:50:28.8124 ERROR  Session [SessionKey[c7ccc388-40d7-4231-bd41-e9f1a4628c55], RemoteEndPoint[192.168.1.4:41214], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:51:17.2257 ERROR  Session [SessionKey[8f4a1361-80e6-44b2-893c-47b9f7e4f7dd], RemoteEndPoint[192.168.1.4:41216], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:53:34.4079 ERROR  Session [SessionKey[6df31904-13c4-4e37-9601-8da493efc68f], RemoteEndPoint[192.168.1.4:41242], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:54:56.2451 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-10 22:55:25.7415 ERROR  Session [SessionKey[b2abdd22-5a25-433c-b73c-a27d6efb6e64], RemoteEndPoint[192.168.1.4:41264], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:55:30.4997 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-10 22:56:48.8534 ERROR  Session [SessionKey[02f05e6e-dd41-41e7-849e-91f256eaa11a], RemoteEndPoint[192.168.1.4:41344], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:56:49.1191 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-10 22:58:39.9177 ERROR  Session [SessionKey[5ed54a1a-5a53-436c-88e6-9a89647942f4], RemoteEndPoint[192.168.1.4:41394], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 22:58:40.0308 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-10 23:05:07.2979 ERROR  Session [SessionKey[15f0406c-9b0f-4cf0-bcac-55cf36f77c11], RemoteEndPoint[192.168.1.4:41434], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 23:05:07.4510 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-10 23:05:56.7635 ERROR  Session [SessionKey[b6910ca2-1a89-458a-a224-ec39f27591e1], RemoteEndPoint[192.168.1.4:41460], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 23:05:56.8780 ERROR  远程主机强迫关闭了一个现有的连接。 
+2018-01-10 23:06:15.3755 ERROR  Session [SessionKey[75370e2d-43fb-4a18-b327-1d2b9a1ed283], RemoteEndPoint[192.168.1.4:41474], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-10 23:06:15.5056 ERROR  远程主机强迫关闭了一个现有的连接。 

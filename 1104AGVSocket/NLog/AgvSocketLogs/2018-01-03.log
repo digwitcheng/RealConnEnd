@@ -1,0 +1,10 @@
+2018-01-03 15:55:21.1086 ERROR  Session [SessionKey[7f3e50fa-d93c-41ec-b622-e127855e61b1], RemoteEndPoint[192.168.1.4:58880], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-03 15:55:21.2307 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-03 15:55:21.4079 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-03 15:55:37.6527 ERROR  Session [SessionKey[2490a329-43bd-4bac-aff3-860f43876bbe], RemoteEndPoint[192.168.1.4:58894], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-03 15:55:37.7758 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-03 15:55:37.9558 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-03 16:10:01.0184 ERROR  Session [SessionKey[8b1f25cd-36a8-4861-916f-0c5dc0a7e864], RemoteEndPoint[192.168.1.4:58950], LocalEndPoint[0.0.0.0:54321]] exception occurred, [无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。]. 
+2018-01-03 16:10:01.0761 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-03 16:10:01.2889 ERROR  无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。 
+2018-01-03 16:13:59.6103 ERROR  SqlHelper.ExecNonQuery SQL:SqlHelper.ExecNonQuery方法捕获异常:已有打开的与此 Command 相关联的 DataReader，必须首先将它关闭。 
